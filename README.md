@@ -21,5 +21,3 @@ A lightweight and secure RESTful API for creating, reading, updating, and deleti
 - dotenv (for environment variables)
 
 ---
-
-## 📁 Project Structure
